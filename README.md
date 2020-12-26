@@ -10,6 +10,17 @@ other versions.
 
 Please see the bottom of this document for licensing and disclaimers.
 
+Linux/Ubuntu notes
+------------------
+
+This repository was modified and tested to work with Ubuntu x86_64 (uname -a
+Linux Latitude-E6440 5.4.0-58-generic #64-Ubuntu SMP Wed Dec 9 08:16:25 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux).
+
+Note you need to call the executable as su, ie:
+
+sudo ./rb3_driver
+
+Hopefully I will manage to get this working on raspberry pi as well.
 
 What is the keytar?
 -------------------
