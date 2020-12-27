@@ -15,7 +15,7 @@ Linux/Ubuntu/Raspbian notes
 
 This repository was modified and tested to work with:
 - Ubuntu x86_64 (uname -a Linux Latitude-E6440 5.4.0-58-generic #64-Ubuntu SMP Wed Dec 9 08:16:25 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux).
-- Raspberry Pi model B+ Raspbian (uname -a Linux raspberrypi 5.4.51-v7+ #1333 SMP Mon Aug 10 16:45:19 BST 2020 armv7l GNU/Linux )
+- Raspberry Pi model B+ Raspbian Buster (uname -a Linux raspberrypi 5.4.51-v7+ #1333 SMP Mon Aug 10 16:45:19 BST 2020 armv7l GNU/Linux )
 
 Note you need to call the executable as su, ie:
 
